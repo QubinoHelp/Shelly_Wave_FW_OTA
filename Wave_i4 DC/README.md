@@ -1,3 +1,6 @@
+**version [11.04] - [2024-04-26] 
+- optimised temperature conversion table
+
 **version [11.03] - [2023-12-12] 
 - Removed delay from input detection to output response.
 - Parameter 120 size changed
