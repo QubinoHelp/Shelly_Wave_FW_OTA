@@ -2,7 +2,7 @@
 - Fixed device not working with DC supply
 - Fixed OTA signalisation
 - Optimised temperature conversion table
-- Other minor improvements
+- Other minor improvements**
 
 **version [11.05] - [2023-11-16]
 - Improved power measurement system
@@ -13,7 +13,7 @@
 - Power mesurement optimzed for 'true power' measurment
 - Added filter for electrical disturbances to avoid unnecessary reporting.
 
-- other minor fixes and improvements.
+- Other minor fixes and improvements.
 
 **version [10.13] - [2023-06-01]
 - initial firmware release
