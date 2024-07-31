@@ -1,3 +1,6 @@
+**version [12.23] - [2024-06-14]
+- Fix parameter system to support the new Z-Wave system
+
 **version [12.21] - [2024-04-17]
 - fixed switch input and output orientation
 - fixed remote commands compatibility
