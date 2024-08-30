@@ -1,10 +1,10 @@
-**version [11.10] - [2024-03-28]
+**version [11.10] - [2024-03-28]**
 - Fixed device not working with DC supply
 - Fixed OTA signalisation
 - Optimised temperature conversion table
 - Other minor improvements**
 
-**version [11.05] - [2023-11-16]
+**version [11.05] - [2023-11-16]**
 - Improved power measurement system
 - Corrected configuration Command Class reports for non-existent parameters
 - Removed delay from input detection to output response.
@@ -15,5 +15,5 @@
 
 - Other minor fixes and improvements.
 
-**version [10.13] - [2023-06-01]
+**version [10.13] - [2023-06-01]**
 - initial firmware release

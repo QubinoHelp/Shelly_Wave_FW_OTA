@@ -1,6 +1,6 @@
-**version [11.01] - [2024-03-25]
+** version [11.03] - [2024-03-29]**
 - optimised temperature conversion table
 - other minor improvements
 
-**version [10.12] - [2023-11-24]
+** version [11.01] - [2023-06-26]**
 - initial firmware release
