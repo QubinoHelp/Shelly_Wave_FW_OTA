@@ -1,7 +1,6 @@
 **version [15.00] - [2025-07-15]**
 - Fix switch binary report when powered with DC
 - Fix Endpoint 2 report state change on singlechannle association
-- Fix Meter report 
 - Fix supervision report for root command
 - Removed parameters no. 91, 92, 93, 94 from the FW
 - Other minor improvements
