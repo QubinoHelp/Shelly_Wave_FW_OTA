@@ -1,3 +1,11 @@
+**version [15.00] - [2025-07-15]**
+- Fix switch binary report when powered with DC
+- Fix Endpoint 2 report state change on singlechannle association
+- Fix Meter report 
+- Fix supervision report for root command
+- Removed parameters no. 91, 92, 93, 94 from the FW
+- Other minor improvements
+
 **Important note firmware version 12.04**
 *After receiving several reports from users that the device began turning off the output randomly after the firmware update, we decided to withdraw the update until we can identify and correct the issue. For users experiencing this random shut-off, the recommended solution is to downgrade the firmware to version 10.30 (EU) or 10.35 (AU).*
 
