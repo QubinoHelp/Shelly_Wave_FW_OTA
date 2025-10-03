@@ -1,3 +1,14 @@
+**version [13.02] - [2025-10-03]**
+- Added Detached mode
+- Added Energy reporting precision 0,01 kWh
+- Fixed device not working properly connected DC
+- Fixed OTA signalisation 
+- Fixed Binary report with normally closed
+- Fixed random power cycle (SDK issue)
+- Removed parameters 91 - 94
+- Removed Inclusion / exclussion output signalisation
+- other minor improvements and fixes
+
 **version [11.10] - [2024-03-28]**
 - Fixed device not working with DC supply
 - Fixed OTA signalisation

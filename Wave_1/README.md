@@ -1,3 +1,10 @@
+**version [13.00] - [2025-10-03]**
+- Added Detached mode
+- Fixed OTA signalisation 
+- Fixed Binary report with normally closed
+- Fixed push button inclusion / exclussion
+- other minor fixes
+
 **version [11.05] - [2024-04-02]**
 - optimised temperature conversion table
 
