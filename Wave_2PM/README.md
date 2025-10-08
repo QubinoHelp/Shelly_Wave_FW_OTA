@@ -1,3 +1,10 @@
+**version [16.02] - [2025-07-15]**
+- SDK with fixed dead node issue
+- Added detached mode and kWh precision set to 2 decimal points
+- Parameter 117 (reboot parameter)
+- Watt reports when NO/NC parameter is active
+- Other minor improvements
+
 **version [15.00] - [2025-07-15]**
 - Fix switch binary report when powered with DC
 - Fix Endpoint 2 report state change on singlechannle association
