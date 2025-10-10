@@ -1,5 +1,6 @@
 **version [16.02] - [2025-07-15]**
-**Important note**
+
+**_Important note_**: 
 Before proceeding, we recommend restoring Parameters No. 36–40 (Power report on change – percentage and Minimum time between reports) to their default values.
 If these parameters are set too low, it may cause issues during the reinterview process, which is required after the update to ensure the configuration is displayed correctly.
 
