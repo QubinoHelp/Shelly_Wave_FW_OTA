@@ -1,3 +1,11 @@
+**version [14.02] - [2025-11-28]**
+- SDK with fixed dead node issue
+- Fixed singlechannel supervision report
+- Fixed sometimes the device reports odd power value
+- Added detached mode & parameters 7 and 8
+- Added parameter 118; Enable SW exclusion
+- other minor improvements
+
 **version [12.23] - [2024-06-14]**
 - Fix parameter system to support the new Z-Wave system
 

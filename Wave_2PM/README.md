@@ -1,4 +1,9 @@
-**version [16.02] - [2025-07-15]**
+
+**version [16.04] - [2025-11-27]**
+* Detached mode SW2 fixed
+* External switches exclusion disabled
+
+**version [16.02] - [2025-10-17]**
 **Important note**
 Before proceeding, we recommend restoring Parameters No. 36–40 (Power report on change – percentage and Minimum time between reports) to their default values.
 If these parameters are set too low, it may cause issues during the reinterview process, which is required after the update to ensure the configuration is displayed correctly.
