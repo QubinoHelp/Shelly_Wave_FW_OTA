@@ -1,3 +1,6 @@
+**version [14.00] - [2025-12-02]**
+- SDK with fixed dead node issue
+
 **version [13.02] - [2025-10-03]**
 - Added Detached mode
 - Added Energy reporting precision 0,01 kWh
