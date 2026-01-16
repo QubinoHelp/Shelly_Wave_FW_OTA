@@ -1,3 +1,5 @@
+**version [16.05] - [2025-01-16]**
+* Fixed Multichannel Association on EP 2
 
 **version [16.04] - [2025-11-27]**
 * Detached mode SW2 fixed
