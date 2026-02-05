@@ -1,4 +1,4 @@
-**version [13.02] - [2024-06-14]**
+**version [13.02] - [2025-11-25]**
 - SDK with fixed dead node issue
 - added parameters for detached mode
 - added parameter 118 Enable SW exclusion
