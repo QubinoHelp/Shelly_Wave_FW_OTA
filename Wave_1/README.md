@@ -1,3 +1,6 @@
+**version [14.00] - [2026-02-19]**
+- SDK with fixed dead node issue
+
 **version [13.00] - [2025-10-03]**
 - Added Detached mode
 - Fixed OTA signalisation 
