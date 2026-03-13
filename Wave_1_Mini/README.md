@@ -1,7 +1,7 @@
 ** version [14.00] - [2024-04-04]**
 - SDK with fixed dead node issue
 - Fixed Basic on/off, Binary Switch On/Off
-- Fixed switch binary report with normaly closed
+- Fixed switch binary report with normally closed
 - Fixed ota in progress LED indicator
 - Added parameter 117 - remote reboot
 - Removed parameters no. 91, 92, 93, 94
