@@ -4,11 +4,11 @@
 - Fixed rapid relay switching when parameter 23 is set to 1
 - Fixed Auto ON/OFF parameter timer. Timer resets at command ON/OFF even if the state doesn't change.
 - Fixed detached mode
-- Fiexd default values for Par 36 & 39
+- Fixed default values for Par 36 & 39
 - Fixed meter unsolicited reports
 - Fixed binary switch unsolicited reports and Basic set
 - Fixed overcurrent alarm
-- Fixed switch binary report with normaly closed
+- Fixed switch binary report with normally closed
 - Fixed Fix random 0W reports
 - Fixed 60Hz power supply functionality
 - Minor power measurement fix in updating kWh
@@ -18,7 +18,7 @@
 - Added Parameter 117; Remote Reboot
 - Added kWh precision, 2 decimals
 - Improved Overvoltage alarm
-- Removed Alarm parameterrs 91, 92, 93, 94 and associated code
+- Removed Alarm parameters 91, 92, 93, 94 and associated code
 - Removed Outputs blink on successful inclusion/exclusion
 - Removed Multilevel Switch Support
 - other minor fixes and improvements
