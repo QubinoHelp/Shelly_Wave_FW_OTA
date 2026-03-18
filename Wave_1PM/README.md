@@ -1,3 +1,6 @@
+**version [14.01] - [2026-02-03]**
+- Corrected Overvoltage threshold to 240+15%V
+
 **version [14.00] - [2025-12-02]**
 - SDK with fixed dead node issue
 
