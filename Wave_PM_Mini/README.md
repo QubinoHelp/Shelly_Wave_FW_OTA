@@ -1,5 +1,6 @@
 ** version [13.01] - [2025-09-11]**
 - Fixed Power measurment spams on capacitive loads
+- Fixed Product type ID to 0x0007
 
 ** version [12.00] - [2025-05-20]**
 - kWh precision set to 2 decimal points
