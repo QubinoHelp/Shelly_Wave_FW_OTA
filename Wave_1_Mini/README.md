@@ -3,6 +3,7 @@
 - Fixed Basic on/off, Binary Switch On/Off
 - Fixed switch binary report with normally closed
 - Fixed ota in progress LED indicator
+- Added detached mode
 - Added parameter 117 - remote reboot
 - Removed parameters no. 91, 92, 93, 94
 - Removed Inclusion/exclusion indication (2x ON/OFF output)
