@@ -1,3 +1,7 @@
+**Version [13.03] - [2026-05-26]**
+- Fixed kWh precision
+- Fixed Overvoltage & Overcurrent limits
+
 **Version [13.01] - [2026-02-17]**
 - SDK with fixed dead node issue
 - Fixed Overvoltage (230V + 15% -> 240V + 15%)
