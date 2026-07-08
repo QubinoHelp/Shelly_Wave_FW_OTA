@@ -1,4 +1,4 @@
-**version [12.06] - [2026-02-09]**
+**version [12.02] - [2026-02-09]**
 - SDK with fixed dead node issue
 - Fixed Inclusion over inputs
 - Fixed Associations 
