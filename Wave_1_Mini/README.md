@@ -1,4 +1,4 @@
-** version [14.00] - [2024-04-04]**
+** version [14.00] - [2026-02-18]**
 - SDK with fixed dead node issue
 - Fixed Basic on/off, Binary Switch On/Off
 - Fixed switch binary report with normally closed
